@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/oihanapascal/static/css/main.a34d0e64.css",
+    "main.js": "/oihanapascal/static/js/main.e35260bd.js",
+    "static/js/726.b792280e.chunk.js": "/oihanapascal/static/js/726.b792280e.chunk.js",
+    "static/media/about04.png": "/oihanapascal/static/media/about04.fa7b3a72ed32b0e25bfb.png",
+    "static/media/about02.png": "/oihanapascal/static/media/about02.7a3df03410ee756268ec.png",
+    "static/media/about01.png": "/oihanapascal/static/media/about01.080509de05322b7aafda.png",
+    "static/media/profile.png": "/oihanapascal/static/media/profile.ee489764521abe34026b.png",
+    "static/media/about03.png": "/oihanapascal/static/media/about03.c26c2547bb1a423cf283.png",
+    "static/media/spotify.png": "/oihanapascal/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
+    "static/media/nb.png": "/oihanapascal/static/media/nb.98f3253e32cc67a4cb5e.png",
+    "static/media/email.png": "/oihanapascal/static/media/email.4d83297bca6dabe5ffc8.png",
+    "static/media/instagram.png": "/oihanapascal/static/media/instagram.6a0c08af0c3648640ea3.png",
+    "static/media/linkedin.png": "/oihanapascal/static/media/linkedin.2ed29d86a866b6f36076.png",
+    "static/media/asus.png": "/oihanapascal/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/adidas.png": "/oihanapascal/static/media/adidas.83df8153294f9137d308.png",
+    "static/media/Segoe UI.ttf": "/oihanapascal/static/media/Segoe UI.45472284dc36b2486ce2.ttf",
+    "static/media/bolt.png": "/oihanapascal/static/media/bolt.64e7d9d30ece478ef3a0.png",
+    "static/media/mobile.png": "/oihanapascal/static/media/mobile.5b206cdc258de5e31d55.png",
+    "static/media/redux.png": "/oihanapascal/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/oihanapascal/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/oihanapascal/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/oihanapascal/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/graphql.png": "/oihanapascal/static/media/graphql.0372057049181c5de51a.png",
+    "static/media/amazon.png": "/oihanapascal/static/media/amazon.0a8be1f53138b5c52456.png",
+    "static/media/figma.png": "/oihanapascal/static/media/figma.152e55329b6f1915967e.png",
+    "static/media/css.png": "/oihanapascal/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/oihanapascal/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/skype.png": "/oihanapascal/static/media/skype.c8d7ee175da5b4c8a8ab.png",
+    "index.html": "/oihanapascal/index.html",
+    "static/media/circle.svg": "/oihanapascal/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
+    "main.a34d0e64.css.map": "/oihanapascal/static/css/main.a34d0e64.css.map",
+    "main.e35260bd.js.map": "/oihanapascal/static/js/main.e35260bd.js.map",
+    "726.b792280e.chunk.js.map": "/oihanapascal/static/js/726.b792280e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34d0e64.css",
+    "static/js/main.e35260bd.js"
+  ]
+}
