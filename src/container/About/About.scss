@@ -1,0 +1,138 @@
+.aboutDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 3rem;
+    height: 800px;
+
+    .imgDiv {
+        display: flex;
+        height: 521px;
+        width: 415px;
+
+        img {
+            object-fit: cover;
+            height: inherit;
+            width: inherit;
+            border-radius: 50px;
+        }
+    }
+
+    .aboutContent{
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: space-around;
+        color: white;
+        margin-left: 8rem;
+
+        h1, p {
+            text-transform: uppercase;
+            margin-bottom: 4rem;
+        }
+
+        h1 {
+            font-size: 4rem;
+        }
+
+        p {
+            font-size: 2.5rem;
+        }
+
+        .contactLink {
+            width: auto;
+            height: auto;
+
+            .contactBtn {
+                width: 323px;
+                height: 60px;
+                border-radius: 75px;
+                border: solid 2px white;
+                background-color: inherit;
+                color: white;
+                font-size: 1.5rem;
+                cursor: pointer;
+
+                transition: all 0.3s ease-in-out;
+
+                &:hover {
+                    background-color: white;
+                    color: black;
+                }
+            }
+        }
+    }
+
+    @media screen and (max-width: 2000px) {
+        .aboutContent {
+            h1, p {
+                font-size: 2rem;
+            }
+        }
+    }
+    @media screen and (max-width: 1200px) {
+        .imgDiv {
+            height: 421px;
+            width: 315px;
+        }
+
+        .aboutContent {
+            .contactLink {
+                margin-bottom: 12vh;
+            }
+            margin-left: 3rem;
+            align-items: start;
+            text-align: start;
+            h1, p {
+                margin-top: 1.5rem;
+                font-size: 1.5rem;
+            }
+        }
+    }
+    @media screen and (max-width: 900px) {
+        flex-direction: column;
+        margin: 5rem 1rem;
+        .imgDiv {
+            margin-top: 2rem;
+        }
+    }
+    @media screen and (max-width:500px) {
+        .imgDiv {
+            margin-top: 5rem;
+        }
+    }
+
+    @media screen and (max-width:450px) {
+        .imgDiv {
+            height: 371px;
+            width: 265px;
+        }
+        .aboutContent{
+            .contactLink {
+                .contactBtn {
+                    width: 203px;
+                    height: 50px;
+                }
+            } 
+        }
+    }
+
+    @media screen and (max-width:350px) {
+        .imgDiv {
+            margin-top: 8rem;
+        }
+    }
+}
+
+
+.line {
+    margin: 2rem;
+    background-color: white;
+    width: 80vw;
+    height: 1px;
+
+    @media screen and (max-width: 1200px) {
+        display: none;
+    }
+}
